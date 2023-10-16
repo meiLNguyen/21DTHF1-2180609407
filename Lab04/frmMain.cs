@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using System.Runtime.Remoting.Contexts;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Reflection;
-
+// Hoang da o day
 namespace Lab04
 {
     public partial class frmMain : Form
